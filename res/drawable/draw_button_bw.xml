@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- 文字は別で白くする必要があり。 -->
+    <gradient
+        android:startColor="#000000"
+        android:centerColor="#000000" 
+        android:endColor="#000000"
+        android:angle="270" />
+    <stroke
+        android:color="#000000"
+        android:width="2dp" />
+    <corners 
+        android:radius="0dp" />
+</shape>
+
+<!--
+<font color="#ff6699">■</font>明るいピンク<br>
+<font color="#ff0066">■</font>濃いピンク<br>
+<font color="#800000">■</font>濃い茶色<br>
+<font color="#cc6633">■</font>薄い茶色<br>
+<font color="#ffccff">■</font>桃色<br>
+<font color="#ffe4e1">■</font>薄いピンク<br>
+ -->
+ 
+ <!-- <font color="#000000">■</font>黒色<br>
+<font color="#ffffff">■</font>白色<br>
+<font color="#ff0000">■</font>赤色<br>
+<font color="#0000ff">■</font>青色<br>
+<font color="#009933">■</font>濃い緑<br>
+<font color="#fef91a">■</font>黄色<br>
+<font color="#800000">■</font>茶色<br>
+<font color="#800080">■</font>紫色<br>
+<font color="#ff6699">■</font>明るいピンク<br>
+<font color="#ff9933">■</font>橙色<br>
+<font color="#ffcc99">■</font>薄い肌色<br>
+<font color="#666666">■</font>灰色<br>
+<font color="#c0c0c0">■</font>銀色<br>
+<font color="#ff0066">■</font>濃いピンク<br>
+<font color="#dc143c">■</font>小豆色<br>
+<font color="#000099">■</font>紺色<br>
+<font color="#66ccff">■</font>水色<br>
+<font color="#d0e0e6">■</font>空色<br>
+<font color="#afeeee">■</font>薄い水色<br>
+<font color="#32cd32">■</font>緑色<br>
+<font color="#98fd98">■</font>エメラルド色<br>
+<font color="#ffff99">■</font>薄い黄色<br>
+<font color="#800000">■</font>濃い茶色<br>
+<font color="#cc6633">■</font>薄い茶色<br>
+<font color="#daa520">■</font>金色<br>
+<font color="#eee8aa">■</font>薄い金色<br>
+<font color="#deb887">■</font>木目色<br>
+<font color="#cc00ff">■</font>赤紫<br>
+<font color="#d8bfd8">■</font>薄い紫<br>
+<font color="#ffccff">■</font>桃色<br>
+<font color="#ffe4e1">■</font>薄いピンク<br>
+<font color="#ffa07a">■</font>濃い肌色<br>
+ -->

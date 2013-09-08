@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/tx_title"
+        android:textSize="20dp"
+        />
+        
+    <Button
+        android:id="@+id/bt_story"
+        android:background="@drawable/draw_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true"
+        android:width="220dp"
+        android:height="50dp"
+        android:onClick="onClick"
+        android:text="@string/tx_story"
+		/>
+    <Button
+        android:id="@+id/bt_practice"
+		android:background="@drawable/button_iphone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="220dp"
+        android:height="50dp"
+        android:layout_below="@+id/bt_story"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:onClick="onClick"
+        android:text="@string/tx_practice"
+        />
+    <Button
+        android:id="@+id/bt_record"
+        android:background="@drawable/draw_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="220dp"
+        android:height="50dp"
+        android:layout_below="@+id/bt_practice"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:onClick="onClick"
+        android:text="@string/tx_record"
+    	/>
+        
+    <Button 
+        android:id="@+id/bt_exit"
+        android:background="@drawable/draw_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="220dp"
+        android:height="50dp"
+        android:layout_below="@+id/bt_record"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:onClick="onClick"
+        android:text="@string/tx_exit"
+        />
+        
+</RelativeLayout>

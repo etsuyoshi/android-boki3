@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ボタンの左上位置 -->
+    <dimen name="st0_bt00_top_y">310dp</dimen>
+    <dimen name="st0_bt01_top_y">340dp</dimen>
+    <dimen name="st0_bt02_top_y">370dp</dimen>
+    <dimen name="st0_bt03_top_y">400dp</dimen>
+    
+    <dimen name="st0_bt10_top_y">310dp</dimen>
+    <dimen name="st0_bt11_top_y">340dp</dimen>
+    <dimen name="st0_bt12_top_y">370dp</dimen>
+    <dimen name="st0_bt13_top_y">400dp</dimen>
+    
+    <dimen name="st0_bt20_top_y">310dp</dimen>
+    <dimen name="st0_bt21_top_y">340dp</dimen>
+    <dimen name="st0_bt22_top_y">370dp</dimen>
+    <dimen name="st0_bt23_top_y">400dp</dimen>
+    
+    <dimen name="st0_bt30_top_y">310dp</dimen>
+    <dimen name="st0_bt31_top_y">340dp</dimen>
+    <dimen name="st0_bt32_top_y">370dp</dimen>
+    <dimen name="st0_bt33_top_y">400dp</dimen>
+ 
+    
+    <dimen name="st0_bt00_top_x">0dp</dimen>
+    <dimen name="st0_bt01_top_x">0dp</dimen>
+    <dimen name="st0_bt02_top_x">0dp</dimen>
+    <dimen name="st0_bt03_top_x">0dp</dimen>
+    
+    <dimen name="st0_bt10_top_x">80dp</dimen>
+    <dimen name="st0_bt11_top_x">80dp</dimen>
+    <dimen name="st0_bt12_top_x">80dp</dimen>
+    <dimen name="st0_bt13_top_x">80dp</dimen>
+    
+    <dimen name="st0_bt20_top_x">160dp</dimen>
+    <dimen name="st0_bt21_top_x">160dp</dimen>
+    <dimen name="st0_bt22_top_x">160dp</dimen>
+    <dimen name="st0_bt23_top_x">160dp</dimen>
+    
+    <dimen name="st0_bt30_top_x">240dp</dimen>
+    <dimen name="st0_bt31_top_x">240dp</dimen>
+    <dimen name="st0_bt32_top_x">240dp</dimen>
+    <dimen name="st0_bt33_top_x">240dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="st0_bt1_width">79dp</dimen>
+    <dimen name="st0_bt1_height">29dp</dimen>
+    
+    <!-- ボタン2幅、高さ -->
+    <dimen name="st0_bt2_width">140dp</dimen>
+    <dimen name="st0_bt2_height">50dp</dimen>
+    
+    
+    <!-- ボタンの左上位置 -->
+    <dimen name="st0_s_bt00_top_y">70dp</dimen>
+    <dimen name="st0_s_bt01_top_y">90dp</dimen>
+    <dimen name="st0_s_bt02_top_y">110dp</dimen>
+    <dimen name="st0_s_bt03_top_y">130dp</dimen>
+    
+    <dimen name="st0_s_bt10_top_y">70dp</dimen>
+    <dimen name="st0_s_bt11_top_y">90dp</dimen>
+    <dimen name="st0_s_bt12_top_y">110dp</dimen>
+    <dimen name="st0_s_bt13_top_y">130dp</dimen>
+    
+    <dimen name="st0_s_bt20_top_y">70dp</dimen>
+    <dimen name="st0_s_bt21_top_y">90dp</dimen>
+    <dimen name="st0_s_bt22_top_y">110dp</dimen>
+    <dimen name="st0_s_bt23_top_y">130dp</dimen>
+    
+    <dimen name="st0_s_bt30_top_y">70dp</dimen>
+    <dimen name="st0_s_bt31_top_y">90dp</dimen>
+    <dimen name="st0_s_bt32_top_y">110dp</dimen>
+    <dimen name="st0_s_bt33_top_y">130dp</dimen>
+ 
+    
+    <dimen name="st0_s_bt00_top_x">0dp</dimen>
+    <dimen name="st0_s_bt01_top_x">0dp</dimen>
+    <dimen name="st0_s_bt02_top_x">0dp</dimen>
+    <dimen name="st0_s_bt03_top_x">0dp</dimen>
+    
+    <dimen name="st0_s_bt10_top_x">80dp</dimen>
+    <dimen name="st0_s_bt11_top_x">80dp</dimen>
+    <dimen name="st0_s_bt12_top_x">80dp</dimen>
+    <dimen name="st0_s_bt13_top_x">80dp</dimen>
+    
+    <dimen name="st0_s_bt20_top_x">160dp</dimen>
+    <dimen name="st0_s_bt21_top_x">160dp</dimen>
+    <dimen name="st0_s_bt22_top_x">160dp</dimen>
+    <dimen name="st0_s_bt23_top_x">160dp</dimen>
+    
+    <dimen name="st0_s_bt30_top_x">240dp</dimen>
+    <dimen name="st0_s_bt31_top_x">240dp</dimen>
+    <dimen name="st0_s_bt32_top_x">240dp</dimen>
+    <dimen name="st0_s_bt33_top_x">240dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="st0_s_bt1_width">79dp</dimen>
+    <dimen name="st0_s_bt1_height">19dp</dimen>
+    
+    
+    <dimen name="st0_s_bt2_width">140dp</dimen>
+    <dimen name="st0_s_bt2_height">50dp</dimen>
+    
+    <dimen name="st0_t00_top_y">280dp</dimen>
+    <dimen name="st0_t00_top_x">0dp</dimen>
+    <dimen name="st0_t01_top_x">80dp</dimen>
+	<dimen name="st0_t02_top_x">160dp</dimen>
+	<dimen name="st0_t03_top_x">240dp</dimen>
+	<!-- テキストの幅、高さ -->
+	<dimen name="st0_t00_width">79dp</dimen>
+    <dimen name="st0_t00_height">29dp</dimen>    
+</resources>

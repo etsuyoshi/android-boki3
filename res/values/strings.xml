@@ -1,0 +1,68 @@
+<resources>
+	<string name="app_name">簿記３級</string>
+    <string name="title_activity_main"> 簿記３級　presented 金融経済教育研究所</string>
+	<string name="menu_settings">menu..</string>
+    <string name="init_title">TITLE..</string>
+	<string name="init_start">スタート</string>
+	<string name="init_exit">終了</string>
+	
+	<string name="tx_title">メニューを選択して下さい。</string>
+	<!-- string name="tx_story">基礎編</string-->
+	<string name="tx_story">問題へ</string>
+	<string name="tx_remove">全成績／解答削除</string>
+	<string name="tx_practice">応用編</string>
+	<string name="tx_record">成績表</string>
+	<string name="tx_exit">戻る</string>
+	
+	<string name="s_p_title">演習問題</string>
+	<string name="present_practice_title">応用編</string>
+	<string name="p_Q1">1章</string>
+	<string name="p_Q2">2章</string>
+	<string name="p_Q3">3章</string>
+	<string name="p_Q4">4章</string>
+	<string name="p_Q5">5章</string>
+	<string name="p_Q6">6章</string>
+	<string name="p_Q7">7章</string>
+	<string name="p_Q8">8章</string>
+	<string name="p_Q9">9章</string>
+	<string name="p_Q10">10章</string>
+	<string name="p_Q11">11章</string>
+	<string name="p_Q12">12章</string>
+
+	
+	<string name="st01_title"></string>
+	
+	
+	<string name="s_st_title">演習問題</string>
+	<string name="present_story_title">基礎編</string>
+	<string name="st_Q1">1章(商品売買)</string>
+	<string name="st_Q2">2章(現金・預金)</string>
+	<string name="st_Q3">3章(手形)</string>
+	<string name="st_Q4">4章(有価証券・債権債務等)</string>
+	<string name="st_Q5">5章(債権債務等) </string>
+	<string name="st_Q6">6章(収益・費用、修正仕訳等)</string>
+	<string name="st_Q7">7章(決算整理等) </string>
+	<string name="st_Q8">8章 </string>	
+	<string name="st_return"> - 戻る - </string>
+	
+	
+	<string name="past_practice_title">過去問</string>
+	<string name="past_Q1">１３９回</string>
+	<string name="past_Q2">１３８回</string>
+	<string name="past_Q3">１３７回</string>
+	<string name="past_Q4">１３６回</string>
+	<string name="past_Q5">１３５回</string>
+	<string name="past_Q6">１３４回</string>
+	<string name="past_Q7">１３３回</string>
+	<string name="past_Q8">１３２回</string>
+	
+	<string name="howToText">選択肢から語句を選択し、仕訳表の該当箇所をタップして下さい。\n数字は左フリックで減少、右フリックで増加します。</string>
+	
+	<string name="explain_title">解説文</string>
+	<string name="explain_text">解説文章表示個所</string>
+	<string name="explain_return">戻る</string>
+	<string name="explain_next">次へ</string>
+	
+	<string name="disp_alert">※新しく解答した問題の表示が優先されます(括弧内は不正解数)。</string>
+	    
+</resources>

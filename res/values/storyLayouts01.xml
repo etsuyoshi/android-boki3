@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 仕訳表位置 -->
+    <dimen name="st1_bt00_top_y">260dp</dimen>
+    <dimen name="st1_bt01_top_y">290dp</dimen>
+    <dimen name="st1_bt02_top_y">320dp</dimen>
+    <dimen name="st1_bt03_top_y">350dp</dimen>
+    
+    <dimen name="st1_bt10_top_y">260dp</dimen>
+    <dimen name="st1_bt11_top_y">290dp</dimen>
+    <dimen name="st1_bt12_top_y">320dp</dimen>
+    <dimen name="st1_bt13_top_y">350dp</dimen>
+    
+    <dimen name="st1_bt20_top_y">260dp</dimen>
+    <dimen name="st1_bt21_top_y">290dp</dimen>
+    <dimen name="st1_bt22_top_y">320dp</dimen>
+    <dimen name="st1_bt23_top_y">350dp</dimen>
+    
+    <dimen name="st1_bt30_top_y">260dp</dimen>
+    <dimen name="st1_bt31_top_y">290dp</dimen>
+    <dimen name="st1_bt32_top_y">320dp</dimen>
+    <dimen name="st1_bt33_top_y">350dp</dimen>
+ 
+    
+    <dimen name="st1_bt00_top_x">0dp</dimen>
+    <dimen name="st1_bt01_top_x">0dp</dimen>
+    <dimen name="st1_bt02_top_x">0dp</dimen>
+    <dimen name="st1_bt03_top_x">0dp</dimen>
+    
+    <dimen name="st1_bt10_top_x">80dp</dimen>
+    <dimen name="st1_bt11_top_x">80dp</dimen>
+    <dimen name="st1_bt12_top_x">80dp</dimen>
+    <dimen name="st1_bt13_top_x">80dp</dimen>
+    
+    <dimen name="st1_bt20_top_x">160dp</dimen>
+    <dimen name="st1_bt21_top_x">160dp</dimen>
+    <dimen name="st1_bt22_top_x">160dp</dimen>
+    <dimen name="st1_bt23_top_x">160dp</dimen>
+    
+    <dimen name="st1_bt30_top_x">240dp</dimen>
+    <dimen name="st1_bt31_top_x">240dp</dimen>
+    <dimen name="st1_bt32_top_x">240dp</dimen>
+    <dimen name="st1_bt33_top_x">240dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="st1_bt1_width">79dp</dimen>
+    <dimen name="st1_bt1_height">29dp</dimen>
+    
+    <!-- ボタン2幅、高さ -->
+    <dimen name="st1_bt2_width">140dp</dimen>
+    <dimen name="st1_bt2_height">50dp</dimen>
+    
+    
+    
+    
+    <!-- ボタンの左上位置 -->
+    <dimen name="st1_s_bt00_top_y">120dp</dimen>
+    <dimen name="st1_s_bt01_top_y">170dp</dimen>
+    
+    <dimen name="st1_s_bt10_top_y">120dp</dimen>
+    <dimen name="st1_s_bt11_top_y">170dp</dimen>
+    
+    <dimen name="st1_s_bt20_top_y">120dp</dimen>
+    <dimen name="st1_s_bt21_top_y">170dp</dimen>
+    
+    
+    <dimen name="st1_s_bt00_top_x">10dp</dimen>
+    <dimen name="st1_s_bt01_top_x">10dp</dimen>
+    
+    <dimen name="st1_s_bt10_top_x">110dp</dimen>
+    <dimen name="st1_s_bt11_top_x">110dp</dimen>
+    
+    <dimen name="st1_s_bt20_top_x">210dp</dimen>
+    <dimen name="st1_s_bt21_top_x">210dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="st1_s_bt1_width">99dp</dimen>
+    <dimen name="st1_s_bt1_height">29dp</dimen>
+    
+    <dimen name="st1_s_bt2_width">140dp</dimen>
+    <dimen name="st1_s_bt2_height">50dp</dimen>   
+    
+    
+    
+    
+    <dimen name="st1_t00_top_y">230dp</dimen>
+    <dimen name="st1_t00_top_x">0dp</dimen>
+    <dimen name="st1_t01_top_x">80dp</dimen>
+	<dimen name="st1_t02_top_x">160dp</dimen>
+	<dimen name="st1_t03_top_x">240dp</dimen>
+	<!-- テキストの幅、高さ -->
+	<dimen name="st1_t00_width">79dp</dimen>
+    <dimen name="st1_t00_height">29dp</dimen>
+    
+    <!-- 説明文テキストの位置 -->
+    <dimen name="st1_howToText_top_x">0dp</dimen>
+    <dimen name="st1_howToText_top_y">380dp</dimen>
+    
+    <!-- 仕訳表項目テキストの大きさ -->
+    <dimen name="st1_textSize">13dp</dimen>
+</resources>

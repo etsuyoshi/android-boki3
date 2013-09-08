@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ボタンの左上位置 -->
+    <dimen name="bt00_top_y">260dp</dimen>
+    <dimen name="bt01_top_y">290dp</dimen>
+    <dimen name="bt02_top_y">320dp</dimen>
+    <dimen name="bt03_top_y">350dp</dimen>
+    
+    <dimen name="bt10_top_y">260dp</dimen>
+    <dimen name="bt11_top_y">290dp</dimen>
+    <dimen name="bt12_top_y">320dp</dimen>
+    <dimen name="bt13_top_y">350dp</dimen>
+    
+    <dimen name="bt20_top_y">260dp</dimen>
+    <dimen name="bt21_top_y">290dp</dimen>
+    <dimen name="bt22_top_y">320dp</dimen>
+    <dimen name="bt23_top_y">350dp</dimen>
+    
+    <dimen name="bt30_top_y">260dp</dimen>
+    <dimen name="bt31_top_y">290dp</dimen>
+    <dimen name="bt32_top_y">320dp</dimen>
+    <dimen name="bt33_top_y">350dp</dimen>
+ 
+    
+    <dimen name="bt00_top_x">0dp</dimen>
+    <dimen name="bt01_top_x">0dp</dimen>
+    <dimen name="bt02_top_x">0dp</dimen>
+    <dimen name="bt03_top_x">0dp</dimen>
+    
+    <dimen name="bt10_top_x">80dp</dimen>
+    <dimen name="bt11_top_x">80dp</dimen>
+    <dimen name="bt12_top_x">80dp</dimen>
+    <dimen name="bt13_top_x">80dp</dimen>
+    
+    <dimen name="bt20_top_x">160dp</dimen>
+    <dimen name="bt21_top_x">160dp</dimen>
+    <dimen name="bt22_top_x">160dp</dimen>
+    <dimen name="bt23_top_x">160dp</dimen>
+    
+    <dimen name="bt30_top_x">240dp</dimen>
+    <dimen name="bt31_top_x">240dp</dimen>
+    <dimen name="bt32_top_x">240dp</dimen>
+    <dimen name="bt33_top_x">240dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="bt1_width">79dp</dimen>
+    <dimen name="bt1_height">29dp</dimen>
+    
+    <!-- ボタン2幅、高さ -->
+    <dimen name="bt2_width">140dp</dimen>
+    <dimen name="bt2_height">50dp</dimen>
+    
+        <!-- ボタンの左上位置 -->
+    <dimen name="s_bt00_top_y">130dp</dimen>
+    <dimen name="s_bt01_top_y">150dp</dimen>
+    <dimen name="s_bt02_top_y">170dp</dimen>
+    <dimen name="s_bt03_top_y">190dp</dimen>
+    
+    <dimen name="s_bt10_top_y">130dp</dimen>
+    <dimen name="s_bt11_top_y">150dp</dimen>
+    <dimen name="s_bt12_top_y">170dp</dimen>
+    <dimen name="s_bt13_top_y">190dp</dimen>
+    
+    <dimen name="s_bt20_top_y">130dp</dimen>
+    <dimen name="s_bt21_top_y">150dp</dimen>
+    <dimen name="s_bt22_top_y">170dp</dimen>
+    <dimen name="s_bt23_top_y">190dp</dimen>
+    
+    <dimen name="s_bt30_top_y">130dp</dimen>
+    <dimen name="s_bt31_top_y">150dp</dimen>
+    <dimen name="s_bt32_top_y">170dp</dimen>
+    <dimen name="s_bt33_top_y">190dp</dimen>
+ 
+    
+    <dimen name="s_bt00_top_x">0dp</dimen>
+    <dimen name="s_bt01_top_x">0dp</dimen>
+    <dimen name="s_bt02_top_x">0dp</dimen>
+    <dimen name="s_bt03_top_x">0dp</dimen>
+    
+    <dimen name="s_bt10_top_x">80dp</dimen>
+    <dimen name="s_bt11_top_x">80dp</dimen>
+    <dimen name="s_bt12_top_x">80dp</dimen>
+    <dimen name="s_bt13_top_x">80dp</dimen>
+    
+    <dimen name="s_bt20_top_x">160dp</dimen>
+    <dimen name="s_bt21_top_x">160dp</dimen>
+    <dimen name="s_bt22_top_x">160dp</dimen>
+    <dimen name="s_bt23_top_x">160dp</dimen>
+    
+    <dimen name="s_bt30_top_x">240dp</dimen>
+    <dimen name="s_bt31_top_x">240dp</dimen>
+    <dimen name="s_bt32_top_x">240dp</dimen>
+    <dimen name="s_bt33_top_x">240dp</dimen>
+    
+    <!-- ボタン1幅、高さ -->
+    <dimen name="s_bt1_width">79dp</dimen>
+    <dimen name="s_bt1_height">19dp</dimen>
+    
+    
+    
+    <!-- ボタン2幅、高さ -->
+    <dimen name="s_bt2_width">140dp</dimen>
+    <dimen name="s_bt2_height">50dp</dimen>    
+    
+    
+    
+    <!-- テキストの左上位置 -->
+    <dimen name="t00_top_y">230dp</dimen>
+    <dimen name="t00_top_x">0dp</dimen>
+    <dimen name="t01_top_x">80dp</dimen>
+	<dimen name="t02_top_x">160dp</dimen>
+	<dimen name="t03_top_x">240dp</dimen>
+	<!-- テキストの幅、高さ -->
+	<dimen name="t00_width">79dp</dimen>
+    <dimen name="t00_height">29dp</dimen>    
+</resources>

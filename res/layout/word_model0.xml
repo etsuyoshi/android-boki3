@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="@drawable/draw_background_grad_brown" >
+
+    <TextView
+        android1:id="@+id/txt_sectName"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_alignParentLeft="true"
+        android1:layout_alignParentTop="true"
+        android1:layout_marginLeft="10dp"
+        android1:layout_marginTop="3dp"
+        android1:text="TextView" />
+
+    <TextView
+        android1:id="@+id/txt_questSntnc"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_alignLeft="@+id/txt_sectName"
+        android1:layout_marginLeft="10dp"
+        android1:layout_below="@+id/txt_sectName"
+        android1:layout_marginTop="5dp"
+        android1:text="TextView" />
+
+
+    <RadioGroup
+        android1:id="@+id/myRadioGroup"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_alignLeft="@+id/txt_questSntnc"
+        android1:layout_marginTop="180dp">
+<!--上記ラジオボタンを次の文を加える(勿論marginTopは調整する必要)と問題文章の下に選択肢が表示される：android1:layout_below="@+id/txt_questSntnc"-->
+        <RadioButton
+            android1:id="@+id/radio0"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:checked="true"
+            android1:textSize="12dp"
+            android1:text="RadioButton0" />
+
+        <RadioButton
+            android1:id="@+id/radio1"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:textSize="12dp"
+            android1:text="RadioButton1" />
+
+        <RadioButton
+            android1:id="@+id/radio2"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:textSize="12dp"
+            android1:text="RadioButton2" />
+        <RadioButton 
+            android1:id="@+id/radio3"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:textSize="12dp"
+            android1:text="RadioButton3"
+            />
+        <RadioButton 
+            android1:id="@+id/radio4"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:textSize="12dp"
+            android1:text="RadioButton4"
+            />
+    </RadioGroup>
+    <Button
+        android:id="@+id/st1_previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:height="10.0px"
+        android:onClick="onClick"
+        android:text="戻る"
+        android:width="95.0px" />
+
+    <Button
+        android:id="@+id/st1_kaisetu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/st1_previous"
+        android:height="10.0px"
+        android:onClick="onClick"
+        android:text="解説"
+        android:width="95.0px" />
+    <Button 
+        android:id="@+id/st1_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/st1_kaisetu"
+        android:height="10.0px"
+        android:onClick="onClick"
+        android:text="終了"
+        android:width="95.0px"/>
+
+    <Button
+        android:id="@+id/st1_answering"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/st1_next"
+        android:height="10.0px"
+        android:onClick="onClick"
+        android:text="回答"
+        android:width="95.0px" />
+
+    <Button
+        android:id="@+id/st1_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:height="10.0px"
+        android:onClick="onClick"
+        android:text="次へ"
+        android:width="95.0px" />
+</RelativeLayout>
